@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaloniaCoreApplication2", "AvaloniaCoreApplication2\AvaloniaCoreApplication2.csproj", "{6E6624F0-1A69-410C-AA53-F8DBD03061F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AvaloniaCoreMVVM1", "AvaloniaCoreMVVM1\AvaloniaCoreMVVM1.csproj", "{8127413B-A849-4D45-B04B-4AE59418652C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AvaloniaCoreMVVM2", "AvaloniaCoreMVVM2\AvaloniaCoreMVVM2.csproj", "{66E7D162-1AF8-4E9C-BA7E-021A955F6343}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6E6624F0-1A69-410C-AA53-F8DBD03061F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6E6624F0-1A69-410C-AA53-F8DBD03061F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6E6624F0-1A69-410C-AA53-F8DBD03061F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6E6624F0-1A69-410C-AA53-F8DBD03061F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8127413B-A849-4D45-B04B-4AE59418652C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8127413B-A849-4D45-B04B-4AE59418652C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8127413B-A849-4D45-B04B-4AE59418652C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8127413B-A849-4D45-B04B-4AE59418652C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66E7D162-1AF8-4E9C-BA7E-021A955F6343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66E7D162-1AF8-4E9C-BA7E-021A955F6343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66E7D162-1AF8-4E9C-BA7E-021A955F6343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66E7D162-1AF8-4E9C-BA7E-021A955F6343}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

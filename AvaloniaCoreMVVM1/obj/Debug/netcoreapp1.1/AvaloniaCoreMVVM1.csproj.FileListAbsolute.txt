@@ -18,3 +18,13 @@ c:\Users\popel\YandexDisk\Prog\NextLevel\RSL\AvaloniaCoreMVVM1\obj\Debug\netcore
 c:\Users\popel\YandexDisk\Prog\NextLevel\RSL\AvaloniaCoreMVVM1\obj\Debug\netcoreapp1.1\AvaloniaCoreMVVM1.AssemblyInfo.cs
 c:\Users\popel\YandexDisk\Prog\NextLevel\RSL\AvaloniaCoreMVVM1\obj\Debug\netcoreapp1.1\AvaloniaCoreMVVM1.dll
 c:\Users\popel\YandexDisk\Prog\NextLevel\RSL\AvaloniaCoreMVVM1\obj\Debug\netcoreapp1.1\AvaloniaCoreMVVM1.pdb
+C:\Users\popel\Documents\Visual Studio 2017\Projects\AvaloniaMvvmQuickGuide\AvaloniaCoreMVVM1\bin\Debug\netcoreapp1.1\AvaloniaCoreMVVM1.deps.json
+C:\Users\popel\Documents\Visual Studio 2017\Projects\AvaloniaMvvmQuickGuide\AvaloniaCoreMVVM1\bin\Debug\netcoreapp1.1\AvaloniaCoreMVVM1.runtimeconfig.json
+C:\Users\popel\Documents\Visual Studio 2017\Projects\AvaloniaMvvmQuickGuide\AvaloniaCoreMVVM1\bin\Debug\netcoreapp1.1\AvaloniaCoreMVVM1.runtimeconfig.dev.json
+C:\Users\popel\Documents\Visual Studio 2017\Projects\AvaloniaMvvmQuickGuide\AvaloniaCoreMVVM1\bin\Debug\netcoreapp1.1\AvaloniaCoreMVVM1.dll
+C:\Users\popel\Documents\Visual Studio 2017\Projects\AvaloniaMvvmQuickGuide\AvaloniaCoreMVVM1\bin\Debug\netcoreapp1.1\AvaloniaCoreMVVM1.pdb
+C:\Users\popel\Documents\Visual Studio 2017\Projects\AvaloniaMvvmQuickGuide\AvaloniaCoreMVVM1\obj\Debug\netcoreapp1.1\AvaloniaCoreMVVM1.csprojResolveAssemblyReference.cache
+C:\Users\popel\Documents\Visual Studio 2017\Projects\AvaloniaMvvmQuickGuide\AvaloniaCoreMVVM1\obj\Debug\netcoreapp1.1\AvaloniaCoreMVVM1.csproj.CoreCompileInputs.cache
+C:\Users\popel\Documents\Visual Studio 2017\Projects\AvaloniaMvvmQuickGuide\AvaloniaCoreMVVM1\obj\Debug\netcoreapp1.1\AvaloniaCoreMVVM1.AssemblyInfo.cs
+C:\Users\popel\Documents\Visual Studio 2017\Projects\AvaloniaMvvmQuickGuide\AvaloniaCoreMVVM1\obj\Debug\netcoreapp1.1\AvaloniaCoreMVVM1.dll
+C:\Users\popel\Documents\Visual Studio 2017\Projects\AvaloniaMvvmQuickGuide\AvaloniaCoreMVVM1\obj\Debug\netcoreapp1.1\AvaloniaCoreMVVM1.pdb
