@@ -1,0 +1,10 @@
+C:\Users\VladlenMacro\YandexDisk\Prog\NextLevel\RSL\AvaloniaCoreMVVM2\bin\Debug\netcoreapp1.1\AvaloniaCoreMVVM2.deps.json
+C:\Users\VladlenMacro\YandexDisk\Prog\NextLevel\RSL\AvaloniaCoreMVVM2\bin\Debug\netcoreapp1.1\AvaloniaCoreMVVM2.runtimeconfig.json
+C:\Users\VladlenMacro\YandexDisk\Prog\NextLevel\RSL\AvaloniaCoreMVVM2\bin\Debug\netcoreapp1.1\AvaloniaCoreMVVM2.runtimeconfig.dev.json
+C:\Users\VladlenMacro\YandexDisk\Prog\NextLevel\RSL\AvaloniaCoreMVVM2\bin\Debug\netcoreapp1.1\AvaloniaCoreMVVM2.dll
+C:\Users\VladlenMacro\YandexDisk\Prog\NextLevel\RSL\AvaloniaCoreMVVM2\bin\Debug\netcoreapp1.1\AvaloniaCoreMVVM2.pdb
+C:\Users\VladlenMacro\YandexDisk\Prog\NextLevel\RSL\AvaloniaCoreMVVM2\obj\Debug\netcoreapp1.1\AvaloniaCoreMVVM2.csprojResolveAssemblyReference.cache
+C:\Users\VladlenMacro\YandexDisk\Prog\NextLevel\RSL\AvaloniaCoreMVVM2\obj\Debug\netcoreapp1.1\AvaloniaCoreMVVM2.csproj.CoreCompileInputs.cache
+C:\Users\VladlenMacro\YandexDisk\Prog\NextLevel\RSL\AvaloniaCoreMVVM2\obj\Debug\netcoreapp1.1\AvaloniaCoreMVVM2.AssemblyInfo.cs
+C:\Users\VladlenMacro\YandexDisk\Prog\NextLevel\RSL\AvaloniaCoreMVVM2\obj\Debug\netcoreapp1.1\AvaloniaCoreMVVM2.dll
+C:\Users\VladlenMacro\YandexDisk\Prog\NextLevel\RSL\AvaloniaCoreMVVM2\obj\Debug\netcoreapp1.1\AvaloniaCoreMVVM2.pdb
