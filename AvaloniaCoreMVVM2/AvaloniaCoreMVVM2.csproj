@@ -2,7 +2,7 @@
     <PropertyGroup>
         <OutputType>Exe</OutputType>
         <TargetFrameworks>netcoreapp1.1;net461</TargetFrameworks>
-        <RootNamespace>RSL</RootNamespace>
+        <RootNamespace>AMQG</RootNamespace>
     </PropertyGroup>
     <ItemGroup>
         <Compile Update="**\*.xaml.cs">

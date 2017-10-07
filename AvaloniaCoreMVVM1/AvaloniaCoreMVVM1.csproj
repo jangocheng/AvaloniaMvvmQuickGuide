@@ -2,7 +2,7 @@
     <PropertyGroup>
         <OutputType>Exe</OutputType>
         <TargetFrameworks>netcoreapp1.1;net461</TargetFrameworks>
-        <RootNamespace>RSL</RootNamespace>
+        <RootNamespace>AMQG</RootNamespace>
     </PropertyGroup>
     <ItemGroup>
         <Compile Update="**\*.xaml.cs">
@@ -18,15 +18,15 @@
         <PackageReference Include="Serilog.Sinks.Trace" Version="2.1.0" />
     </ItemGroup>
     <ItemGroup>
-      <Compile Update="Views\MainView.xaml.Designer.cs">
+      <Compile Update="UI\Views\MainView.xaml.Designer.cs">
         <DependentUpon>MainView.xaml.cs</DependentUpon>
       </Compile>
     </ItemGroup>
     <ItemGroup>
-      <EmbeddedResource Update="Views\MainView.xaml">
+      <EmbeddedResource Update="UI\Views\MainView.xaml">
         <Generator>MSBuild:Compile</Generator>
       </EmbeddedResource>
-      <EmbeddedResource Update="Views\StudentView.xaml">
+      <EmbeddedResource Update="UI\Views\StudentView.xaml">
         <Generator>MSBuild:Compile</Generator>
       </EmbeddedResource>
     </ItemGroup>

@@ -6,9 +6,9 @@ using Avalonia.Logging.Serilog;
 using Avalonia.Themes.Default;
 using Avalonia.Markup.Xaml;
 using Serilog;
-using RSL.UI.Views;
+using AMQG.UI.Views;
 
-namespace RSL
+namespace AMQG
 {
     class App : Application
     {

@@ -12592,7 +12592,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\popel\\.nuget\\packages\\": {}
+    "C:\\Users\\VladlenMacro\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -12600,23 +12600,23 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\popel\\Documents\\Visual Studio 2017\\Projects\\AvaloniaMvvmQuickGuide\\AvaloniaCoreMVVM1\\AvaloniaCoreMVVM1.csproj",
+      "projectUniqueName": "C:\\Users\\VladlenMacro\\YandexDisk\\Prog\\DotNet\\AvaloniaMvvmQuickGuide\\AvaloniaCoreMVVM1\\AvaloniaCoreMVVM1.csproj",
       "projectName": "AvaloniaCoreMVVM1",
-      "projectPath": "C:\\Users\\popel\\Documents\\Visual Studio 2017\\Projects\\AvaloniaMvvmQuickGuide\\AvaloniaCoreMVVM1\\AvaloniaCoreMVVM1.csproj",
-      "packagesPath": "C:\\Users\\popel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\popel\\Documents\\Visual Studio 2017\\Projects\\AvaloniaMvvmQuickGuide\\AvaloniaCoreMVVM1\\obj\\",
+      "projectPath": "C:\\Users\\VladlenMacro\\YandexDisk\\Prog\\DotNet\\AvaloniaMvvmQuickGuide\\AvaloniaCoreMVVM1\\AvaloniaCoreMVVM1.csproj",
+      "packagesPath": "C:\\Users\\VladlenMacro\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\VladlenMacro\\YandexDisk\\Prog\\DotNet\\AvaloniaMvvmQuickGuide\\AvaloniaCoreMVVM1\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "configFilePaths": [
-        "C:\\Users\\popel\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\VladlenMacro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp1.1",
         "net461"
       ],
       "sources": {
-        "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
