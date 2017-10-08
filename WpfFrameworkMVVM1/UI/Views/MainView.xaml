@@ -7,7 +7,7 @@
         xmlns:views="clr-namespace:AMQG.UI.Views"
         
         mc:Ignorable="d"
-        Title="MainView" Height="300" Width="300">
+        Title="MainView" Height="350" Width="500">
     <Grid>
         <views:StudentView x:Name = "StudentViewControl"/>
     </Grid>

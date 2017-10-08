@@ -36,7 +36,7 @@ namespace AMQG.UI.VML
             var viewType = d.GetType();
 
             string str = viewType.FullName;
-            str = str.Replace(".Views.", ".ViewModel.");
+            str = str.Replace(".Views.", ".ViewModels.");
 
             var viewTypeName = str;
             var viewModelTypeName = viewTypeName + "Model";

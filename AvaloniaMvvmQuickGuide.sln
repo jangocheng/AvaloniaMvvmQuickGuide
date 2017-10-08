@@ -7,13 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AvaloniaCoreMVVM1", "Avalon
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AvaloniaCoreMVVM2", "AvaloniaCoreMVVM2\AvaloniaCoreMVVM2.csproj", "{66E7D162-1AF8-4E9C-BA7E-021A955F6343}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfFrameworkMVVM1", "WpfFrameworkMVVM1\WpfFrameworkMVVM1.csproj", "{A8E1E2AA-5697-4F70-922F-D22DE4ED2975}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfFrameworkMVVM2", "WpfFrameworkMVVM2\WpfFrameworkMVVM2.csproj", "{603358BB-0FE8-414F-97A6-942CDBAF8D0A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaloniaFrameworkMVVM1", "AvaloniaFrameworkMVVM1\AvaloniaFrameworkMVVM1.csproj", "{E8F89010-6DFC-434F-8FFA-D26CDF04C117}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaloniaFrameworkMVVM2", "AvaloniaFrameworkMVVM2\AvaloniaFrameworkMVVM2.csproj", "{0CDD0164-860B-49E2-BE7C-AC8573F386B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfFrameworkMVVM1", "WpfFrameworkMVVM1\WpfFrameworkMVVM1.csproj", "{1A07A702-805C-45D5-907D-62D92389DA5C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,6 @@ Global
 		{66E7D162-1AF8-4E9C-BA7E-021A955F6343}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66E7D162-1AF8-4E9C-BA7E-021A955F6343}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66E7D162-1AF8-4E9C-BA7E-021A955F6343}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A8E1E2AA-5697-4F70-922F-D22DE4ED2975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A8E1E2AA-5697-4F70-922F-D22DE4ED2975}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A8E1E2AA-5697-4F70-922F-D22DE4ED2975}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A8E1E2AA-5697-4F70-922F-D22DE4ED2975}.Release|Any CPU.Build.0 = Release|Any CPU
 		{603358BB-0FE8-414F-97A6-942CDBAF8D0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{603358BB-0FE8-414F-97A6-942CDBAF8D0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{603358BB-0FE8-414F-97A6-942CDBAF8D0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -45,6 +41,10 @@ Global
 		{0CDD0164-860B-49E2-BE7C-AC8573F386B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CDD0164-860B-49E2-BE7C-AC8573F386B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CDD0164-860B-49E2-BE7C-AC8573F386B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A07A702-805C-45D5-907D-62D92389DA5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A07A702-805C-45D5-907D-62D92389DA5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A07A702-805C-45D5-907D-62D92389DA5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A07A702-805C-45D5-907D-62D92389DA5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

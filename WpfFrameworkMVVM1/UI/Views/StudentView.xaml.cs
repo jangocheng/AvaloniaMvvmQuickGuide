@@ -23,7 +23,6 @@ namespace AMQG.UI.Views
         public StudentView()
         {
             InitializeComponent();
-            this.DataContext = new AMQG.UI.ViewModels.StudentViewModel();
         }
     }
 }
